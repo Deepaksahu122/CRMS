@@ -9,6 +9,7 @@ public class Navigate  extends Set_Webdriver implements Init{
 	public void driver_Get(String url) {
 		
          driver.get(url);
+         System.out.println("Hello");
 		
 	}
 }
