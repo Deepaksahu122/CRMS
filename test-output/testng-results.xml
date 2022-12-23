@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-22T16:25:44 IST" name="Suite" finished-at="2022-12-22T16:25:49 IST" duration-ms="5186">
+  <suite started-at="2022-12-23T18:14:54 IST" name="Suite" finished-at="2022-12-23T18:14:58 IST" duration-ms="3434">
     <groups>
     </groups>
-    <test started-at="2022-12-22T16:25:44 IST" name="Test" finished-at="2022-12-22T16:25:49 IST" duration-ms="5186">
+    <test started-at="2022-12-23T18:14:54 IST" name="Test" finished-at="2022-12-23T18:14:58 IST" duration-ms="3434">
       <class name="com.CRM.Dashboard.UI.DashboardTest">
-        <test-method signature="OpenHomePage()[pri:0, instance:com.CRM.Dashboard.UI.DashboardTest@3c41ed1d]" started-at="2022-12-22T16:25:44 IST" name="OpenHomePage" finished-at="2022-12-22T16:25:49 IST" duration-ms="5108" status="PASS">
+        <test-method signature="OpenHomePage()[pri:0, instance:com.CRM.Dashboard.UI.DashboardTest@3c41ed1d]" started-at="2022-12-23T18:14:54 IST" name="OpenHomePage" finished-at="2022-12-23T18:14:58 IST" duration-ms="3246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenHomePage -->
       </class> <!-- com.CRM.Dashboard.UI.DashboardTest -->
       <class name="com.CRM.webdrverutils.Set_Webdriver">
-        <test-method is-config="true" signature="Setup_Webdriver()[pri:0, instance:com.CRM.webdrverutils.Set_Webdriver@2b71e916]" started-at="2022-12-22T16:25:22 IST" name="Setup_Webdriver" finished-at="2022-12-22T16:25:44 IST" duration-ms="21941" status="PASS">
+        <test-method is-config="true" signature="Setup_Webdriver()[pri:0, instance:com.CRM.webdrverutils.Set_Webdriver@2b71e916]" started-at="2022-12-23T18:13:56 IST" name="Setup_Webdriver" finished-at="2022-12-23T18:14:54 IST" duration-ms="57868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup_Webdriver -->
