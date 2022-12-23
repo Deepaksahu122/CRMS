@@ -10,7 +10,6 @@ public class Navigate  extends Set_Webdriver implements Init{
 		
          driver.get(url);
          System.out.println("Hello");
-		System.out.println("another");
-		System.out.println("another");
+		
 	}
 }
