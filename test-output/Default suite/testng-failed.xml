@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.CRM.webdrverutils.Navigate">
+      <class name="com.CRM.Dashboard.UI.DashboardTest">
         <methods>
-          <include name="driver_Get"/>
+          <include name="OpenHomePage"/>
         </methods>
-      </class> <!-- com.CRM.webdrverutils.Navigate -->
+      </class> <!-- com.CRM.Dashboard.UI.DashboardTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
