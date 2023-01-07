@@ -7,18 +7,14 @@ import com.CRM.common.Init;
 
 public class DashboardTest extends Annotations implements Init {
 	//public static final Logger log=LogManager.getLogger(DashboardTest.class);
+	
+	
 	@Test()
-	public void OpenHomePage() {
+	public void TC_Login() {
 		
 		navigate.driver_Get(Constants.hompage);
 		
-System.out.println("this is logger demo.");
-		
-	
-
 
 		log.info("this is me logged");
-
 	}
-	
 }
