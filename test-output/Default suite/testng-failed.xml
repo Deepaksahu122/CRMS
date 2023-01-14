@@ -5,7 +5,7 @@
     <classes>
       <class name="com.CRM.Dashboard.UI.DashboardTest">
         <methods>
-          <include name="OpenHomePage"/>
+          <include name="TC_Login"/>
         </methods>
       </class> <!-- com.CRM.Dashboard.UI.DashboardTest -->
     </classes>
